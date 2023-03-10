@@ -1,0 +1,129 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.logo img
+{
+    width: 185px;
+    height: 45px;
+    margin-left: 45%;
+}
+.logo
+{
+    background-color: rgb(238, 240, 243);
+    border:2px solid rgb(238, 240, 243);
+    width: 100%;
+}
+h2
+{
+    text-align: center;
+}
+
+.sub-ti1
+{
+    margin-left: 10px;
+    font-style: italic;
+    font-weight: bold;
+}
+.sub-ti2
+{
+    margin-left: 10px;
+    font-style: italic;
+    color: rgb(57, 103, 177);
+    font-weight: bold;
+}
+.sub-div1
+{
+    background-color: rgb(238, 240, 243);
+    border:2px solid rgb(238, 240, 243);
+    width: 80%;
+    margin-left: 10%;
+    height: 320px;
+}
+.sub-div2 p
+{
+    margin-left: 10px;
+    font-style: italic;
+    color: rgb(57, 103, 177);
+    font-weight: bold;
+}
+
+.sub-div3
+{
+    background-color: rgb(238, 240, 243);
+    border:2px solid rgb(238, 240, 243);
+    width: 80%;
+    margin-left: 10%;
+    height: 140px;
+}
+.sub-div4
+{
+    background-color: rgb(238, 240, 243);
+    border:2px solid rgb(238, 240, 243);
+    width: 80%;
+    margin-left: 10%;
+    height: 200px;
+}
+.sub-div5
+{
+    background-color: rgb(238, 240, 243);
+    border:2px solid rgb(238, 240, 243);
+    width: 80%;
+    margin-left: 10%;
+    height: 300px;
+}
+
+.t1
+{
+margin-left: 10px;
+width: 96%;
+height: 37px;
+}
+.t2
+{
+margin-left: 10px;
+height: 37px;
+width: 95%;
+}
+.t3
+{
+margin-left: 10px;
+width: 95%;
+height: 37px;
+}
+.t4
+{
+margin-left: 10px;
+width: 140px;
+height: 37px;
+}
+.tab1{
+    width: 98%;
+}
+.tab2{
+    width: 97%;
+}
+.t5
+{
+margin-left: 10px;
+width: 95%;
+height: 37px;
+}
+.subtag{
+    margin-left: 10px;
+}
+.phone{
+    margin-left: 10px;
+    border: 1px solid;
+}
+
+input[type=button]
+{
+    background-color: rgb(51, 92, 158);
+    color: rgb(235, 254, 254);
+    padding: 10px 20px;
+    width: 300px;
+    margin-left: 39%;
+    border: 2px solid rgb(51, 92, 158);
+}
